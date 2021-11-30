@@ -1,0 +1,61 @@
+{
+  "laptop": {
+    "id": "65c930b3-a041-4e34-8831-3be275400a2a",
+    "brand": "Hello",
+    "name": "Hello",
+    "cpu": {
+      "brand": "Hello",
+      "name": "Hello",
+      "number_cores": 100,
+      "number_threads": 100,
+      "min_ghz": 1.4,
+      "max_ghz": 1.4
+    },
+    "ram": {
+      "value": 100,
+      "unit": 0
+    },
+    "gpus": [
+      {
+        "brand": "Hello",
+        "name": "Hello",
+        "min_ghz": 1.4,
+        "max_ghz": 1.4,
+        "memory": {
+          "value": 100,
+          "unit": 0
+        }
+      }
+    ],
+    "storages": [
+      {
+        "driver": 0,
+        "memory": {
+          "value": 100,
+          "unit": 0
+        }
+      }
+    ],
+    "screen": {
+      "size_inch": 1.1,
+      "resolution": {
+        "width": 100,
+        "height": 100
+      },
+      "panel": 0,
+      "multitouch": true
+    },
+    "keyboard": {
+      "layout": 0,
+      "backlit": true
+    },
+    "weight_kg": 1.4,
+    "weight_lb": 1.4,
+    "price_usd": 1.4,
+    "release_year": 100,
+    "updated_at": {
+      "seconds": 20,
+      "nanos": 10
+    }
+  }
+}
